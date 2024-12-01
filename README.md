@@ -13,6 +13,9 @@ Para resolver o cubo mágico é necessário seguir uma receita essa que pode ser
 
 ### 4 - coloque os cantos brancos alinhados com os centros 
 
+![imagem cruz 2](./img/2.png)
+![take1](./img/1.gif)
+
 ### 5 - montar a segunda camada 
 U R U' R' U' F' U F para lado direito 
 U' L' U L U F U' F'
