@@ -7,7 +7,7 @@ Para resolver o cubo mágico é necessário seguir uma receita essa que pode ser
  A primeira coisa a ser feita é uma cruz branca na parte de baixo do cubo, as peças do meio devem corresponder as cores das peças centrais ao fazer a cruz branca.
 
 ### 2 - Centro Amarelo e cruz branca 
-
+![imagem cruz](./img/1.png)
 
 ### 3 - move a cruz branca para o centro branco
 
